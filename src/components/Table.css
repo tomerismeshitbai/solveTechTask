@@ -23,4 +23,22 @@
   .galaxy-table tr:hover td {
     background: #3a3a6a;
   }
+
+  .pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .pagination button {
+    padding: 5px 10px;
+    margin: 0 5px;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 12px;
+  }
+  
   
