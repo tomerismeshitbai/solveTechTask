@@ -1,0 +1,26 @@
+.galaxy-table {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .galaxy-table th,
+  .galaxy-table td {
+    padding: 12px;
+    text-align: left;
+    color: #e0e0f5;
+  }
+  
+  .galaxy-table th {
+    background: #29295c;
+  }
+  
+  .galaxy-table td {
+    background: #1c1c44;
+  }
+  
+  .galaxy-table tr:hover td {
+    background: #3a3a6a;
+  }
+  

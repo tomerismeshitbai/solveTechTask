@@ -1,0 +1,33 @@
+.nav-container {
+    background: #0d0d33;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .nav-container a {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-container a:hover {
+    color: #c0c0ff;
+  }
+  
+  .auth-button {
+    background-color: #29295c;
+    color: #ffffff;
+    border: none;
+    padding: 8px 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .auth-button:hover {
+    background-color: #3a3a6a;
+  }
+  
